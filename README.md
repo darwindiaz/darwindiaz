@@ -1,4 +1,6 @@
-# 👋 Hola, soy Darwin Díaz
+# 👋 Hola, soy Darwin Díaz Mejia
+
+![Banner](assets/banner-soft.png)
 
 ## Full Stack Software Engineer
 
@@ -57,13 +59,7 @@ Actualmente me interesa especialmente el desarrollo de soluciones SaaS, arquitec
 
 Sistema de comercio electrónico desarrollado con .NET y Angular.
 
-Tecnologías:
-
-`.NET` `Angular` `JWT` `SQLite` `Clean Architecture`
-
-Repositorio:
-
-https://github.com/darwindiaz/ecommerce-net-angular-mvp
+Tecnologías: `.NET` `Angular` `JWT` `SQLite` `Clean Architecture`
 
 ---
 
@@ -71,9 +67,7 @@ https://github.com/darwindiaz/ecommerce-net-angular-mvp
 
 Backend para gestión de eventos y operaciones empresariales.
 
-Tecnologías:
-
-`Java` `Spring Boot`
+Tecnologías: `Java` `Spring Boot`
 
 ---
 
@@ -81,9 +75,7 @@ Tecnologías:
 
 Frontend para gestión de eventos.
 
-Tecnologías:
-
-`TypeScript`
+Tecnologías: `TypeScript`
 
 ---
 
@@ -91,9 +83,7 @@ Tecnologías:
 
 Infraestructura como código para despliegues cloud.
 
-Tecnologías:
-
-`Terraform` `AWS`
+Tecnologías: `Terraform` `AWS`
 
 ---
 
@@ -119,15 +109,12 @@ Características:
 - Clientes
 - Reportes
 - Arquitectura empresarial
+- IA Asistente
 
 ---
 
 ## 📫 Contacto
 
-LinkedIn:
-
-www.linkedin.com/in/darwin-diaz/
-
-Ubicación:
+💼 www.linkedin.com/in/darwin-diaz/
 
 📍 Colombia
