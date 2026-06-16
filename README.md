@@ -14,8 +14,6 @@ A lo largo de mi trayectoria he asumido responsabilidades propias de un liderazg
 
 ### Frontend (Especialidad)
 
-### Frontend (Especialidad)
-
 ![Angular](https://img.shields.io/badge/Angular-D32F2F?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-D32F2F?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D32F2F?style=for-the-badge)
