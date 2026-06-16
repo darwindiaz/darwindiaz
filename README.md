@@ -1,120 +1,159 @@
-# 👋 Hola, soy Darwin Díaz Mejia
+# 👋 Soy Darwin Díaz Mejia
 
 ![Banner](assets/banner-soft.png)
 
-## Full Stack Software Engineer
+## ## Technical Lead Angular | Senior Full Stack Developer
 
-Ingeniero de software con experiencia en el desarrollo de aplicaciones empresariales, plataformas web y soluciones orientadas a procesos de negocio.
+Ingeniero de Sistemas colombiano con más de 8 años de experiencia desarrollando soluciones empresariales para sectores de alta criticidad, especialmente en el ámbito financiero y corporativo.
 
-Me especializo en tecnologías .NET, Angular, Java y ecosistemas cloud, aplicando principios de arquitectura limpia, buenas prácticas de ingeniería y diseño de software mantenible.
+Me especializo en el desarrollo frontend con Angular, aportando una visión Full Stack que me permite comprender el ciclo completo del producto, colaborar con equipos multidisciplinarios y participar activamente en decisiones técnicas orientadas a generar valor de negocio.
 
-Actualmente me interesa especialmente el desarrollo de soluciones SaaS, arquitecturas escalables, automatización de procesos empresariales y plataformas cloud.
+A lo largo de mi trayectoria he asumido responsabilidades propias de un liderazgo técnico, incluyendo revisión de código, acompañamiento a desarrolladores, análisis de requerimientos, estimaciones y apoyo en la toma de decisiones técnicas. Actualmente continúo fortaleciendo mis capacidades arquitectónicas y de liderazgo para evolucionar formalmente hacia posiciones de Technical Lead.
 
 ## 🛠️ Tech Stack
 
+### Frontend (Especialidad)
+
+### Frontend (Especialidad)
+
+![Angular](https://img.shields.io/badge/Angular-D32F2F?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-D32F2F?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-D32F2F?style=for-the-badge)
+![RxJS](https://img.shields.io/badge/RxJS-D32F2F?style=for-the-badge)
+![Angular Material](https://img.shields.io/badge/Angular_Material-D32F2F?style=for-the-badge)
+![NgRx](https://img.shields.io/badge/NgRx-D32F2F?style=for-the-badge)
+![Angular Signals](https://img.shields.io/badge/Angular_Signals-D32F2F?style=for-the-badge)
+![Module Federation](https://img.shields.io/badge/Module_Federation-D32F2F?style=for-the-badge)
+
 ### Backend
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![.NET](https://img.shields.io/badge/.NET-1565C0?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1565C0?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-1565C0?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1565C0?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1565C0?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-1565C0?style=for-the-badge)
 
-### Frontend
+### Bases de Datos
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2E7D32?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E7D32?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E7D32?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-2E7D32?style=for-the-badge)
 
-### Cloud & DevOps
+### Cloud, DevOps y Herramientas
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-263238?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-263238?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-263238?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-263238?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-263238?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-263238?style=for-the-badge)
 
-### Databases
+### Testing y Calidad
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Jasmine](https://img.shields.io/badge/Jasmine-6A1B9A?style=for-the-badge)
+![Karma](https://img.shields.io/badge/Karma-6A1B9A?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/xUnit-6A1B9A?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-6A1B9A?style=for-the-badge)
 
----
+### IA y Aprendizaje Continuo
 
-## 🏗️ Arquitectura y Especialidades
-
-- Clean Architecture
-- SOLID Principles
-- CQRS
-- Repository Pattern
-- MediatR
-- REST APIs
-- JWT Authentication
-- Microservices
-- Event Driven Architecture
-- Infrastructure as Code (Terraform)
-
----
-
-## ⭐ Featured Projects
-
-### E-Commerce MVP
-
-Sistema de comercio electrónico desarrollado con .NET y Angular.
-
-Tecnologías: `.NET` `Angular` `JWT` `SQLite` `Clean Architecture`
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-EF6C00?style=for-the-badge)
+![Azure AI](https://img.shields.io/badge/Azure_AI-EF6C00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-EF6C00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EF6C00?style=for-the-badge)
 
 ---
 
-### Eventos Backend
+## 💡 Fortalezas Profesionales
 
-Backend para gestión de eventos y operaciones empresariales.
-
-Tecnologías: `Java` `Spring Boot`
-
----
-
-### Eventos Frontend
-
-Frontend para gestión de eventos.
-
-Tecnologías: `TypeScript`
-
----
-
-### Terraform Infrastructure
-
-Infraestructura como código para despliegues cloud.
-
-Tecnologías: `Terraform` `AWS`
+- Angular Enterprise Development.
+- Frontend Architecture & Scalability.
+- Technical Decision Making.
+- Code Reviews & Mentoring.
+- REST API Integration.
+- Cross-functional Collaboration.
+- Business-Oriented Solutions.
+- Financial Sector Experience.
+- Continuous Learning Mindset.
+- Problem Solving with a Pragmatic Approach.
 
 ---
 
-## 🚧 Actualmente Construyendo
+## ⭐ Proyectos Destacados
 
-### SmartPOS
+### 🛒 E-Commerce MVP (Angular + .NET)
 
-Plataforma SaaS para puntos de venta e inventario.
+Proyecto Full Stack diseñado para demostrar integración entre frontend y backend en un escenario empresarial. Incluye autenticación, consumo de APIs REST y una arquitectura modular orientada a mantenibilidad y escalabilidad.
 
-Stack:
+**Tecnologías:** Angular · TypeScript · .NET · JWT · REST APIs
 
-- .NET 10
-- Angular 20
-- PostgreSQL
-- AWS
-- Docker
-
-Características:
-
-- Multi sucursal
-- Inventario
-- Ventas
-- Clientes
-- Reportes
-- Arquitectura empresarial
-- IA Asistente
+🔗 Repositorio: https://github.com/darwindiaz/ecommerce-net-angular-mvp
 
 ---
+
+### 🎟️ Eventos Frontend
+
+Aplicación frontend desarrollada con Angular enfocada en la construcción de interfaces reutilizables, gestión de formularios y consumo eficiente de servicios. Refleja buenas prácticas aplicadas al desarrollo empresarial.
+
+**Tecnologías:** Angular · TypeScript · RxJS · Angular Material · HTML · CSS
+
+🔗 Repositorio: https://github.com/darwindiaz/eventos-frontend
+
+---
+
+### ⚙️ Eventos Backend
+
+API backend orientada a la gestión de eventos y reglas de negocio, implementando principios de separación de responsabilidades e integración mediante servicios REST.
+
+**Tecnologías:** Java · Spring Boot · REST APIs
+
+🔗 Repositorio: https://github.com/darwindiaz/eventos-backend
+
+---
+
+### ☁️ Infrastructure as Code
+
+Repositorio orientado a la automatización y definición de infraestructura mediante código, fortaleciendo conocimientos en prácticas modernas de despliegue y entornos cloud.
+
+**Tecnologías:** Terraform · AWS
+
+🔗 Repositorio: https://github.com/darwindiaz/terraform
+
+## 🧪 Learning & Innovation Lab
+
+Este espacio representa mi laboratorio técnico personal, orientado a la experimentación, el aprendizaje aplicado y el fortalecimiento continuo de capacidades profesionales.
+
+A través de iniciativas propias exploro nuevas tecnologías, evalúo herramientas emergentes y construyo soluciones prácticas que complementan mi experiencia empresarial. Mi objetivo es mantenerme actualizado y desarrollar una visión cada vez más amplia como profesional y futuro líder técnico.
+
+Actualmente exploro iniciativas relacionadas con:
+
+- 🤖 Inteligencia Artificial aplicada al desarrollo de software.
+- ⚙️ Automatización de procesos y productividad.
+- 🏗️ Arquitecturas escalables y mantenibles.
+- ☁️ Cloud y observabilidad.
+- 🚀 Soluciones SaaS orientadas a negocio.
+- 📚 Aprendizaje continuo basado en la práctica.
+
+## 🤝 Mi Enfoque Profesional
+
+Disfruto transformar requerimientos complejos en soluciones mantenibles, escalables y orientadas a resultados. Me motiva generar impacto real en el negocio, facilitar acuerdos técnicos y contribuir al crecimiento de los equipos con los que colaboro.
+
+A lo largo de mi trayectoria he participado activamente en revisiones de código, análisis de requerimientos, estimaciones y acompañamiento técnico a otros desarrolladores, fortaleciendo progresivamente capacidades propias del liderazgo técnico.
+
+Creo en el aprendizaje continuo, las decisiones pragmáticas y el equilibrio entre calidad técnica y entrega de valor. Mi objetivo es evolucionar hacia posiciones formales de **Technical Lead**, aportando tanto desde la ejecución técnica como desde la colaboración y el acompañamiento de equipos.
 
 ## 📫 Contacto
 
-💼 www.linkedin.com/in/darwin-diaz/
+💼 **LinkedIn:** https://www.linkedin.com/in/darwin-diaz/
 
-📍 Colombia
+💻 **GitHub:** https://github.com/darwindiaz
+
+📍 **Ubicación:** Colombia
+
+📧 **Disponibilidad:** Abierto a oportunidades remotas e híbridas alineadas con roles de Technical Lead Angular, Senior Frontend y Senior Full Stack.
+
+---
+
+> Siempre estoy dispuesto a conectar con profesionales del sector, compartir aprendizajes y explorar oportunidades donde pueda generar impacto y continuar creciendo profesionalmente.
