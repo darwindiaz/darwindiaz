@@ -2,7 +2,7 @@
 
 ![Banner](assets/banner-soft.png)
 
-## ## Technical Lead Angular | Senior Full Stack Developer
+## Technical Lead Angular | Senior Full Stack Developer
 
 Ingeniero de Sistemas colombiano con más de 8 años de experiencia desarrollando soluciones empresariales para sectores de alta criticidad, especialmente en el ámbito financiero y corporativo.
 
@@ -81,11 +81,21 @@ A lo largo de mi trayectoria he asumido responsabilidades propias de un liderazg
 
 ## ⭐ Proyectos Destacados
 
-### 🛒 E-Commerce MVP (Angular + .NET)
+### 🤖 Smart Workforce AI
 
-Proyecto Full Stack diseñado para demostrar integración entre frontend y backend en un escenario empresarial. Incluye autenticación, consumo de APIs REST y una arquitectura modular orientada a mantenibilidad y escalabilidad.
+Plataforma Full Stack orientada a la gestión y automatización de procesos empresariales mediante inteligencia artificial. El proyecto funciona como laboratorio técnico para aplicar arquitectura de software, desarrollo backend y frontend, integración de IA generativa y buenas prácticas de ingeniería, evolucionando progresivamente hacia una solución empresarial mantenible y escalable.
 
-**Tecnologías:** Angular · TypeScript · .NET · JWT · REST APIs
+**Tecnologías:** Angular · TypeScript · .NET · ASP.NET Core · REST APIs · Clean Architecture · DDD · Generative AI
+
+🔗 Repositorio: https://github.com/darwindiaz/smart-workforce-ai
+
+---
+
+### 🛒 E-Commerce MVP
+
+Aplicación Full Stack desarrollada para demostrar la construcción de una solución empresarial completa, desde la arquitectura frontend hasta la integración con servicios backend. Incluye autenticación y autorización, consumo de APIs REST, gestión de estado, persistencia, pruebas y una estructura orientada a mantenibilidad y escalabilidad.
+
+**Tecnologías:** Angular · TypeScript · RxJS · .NET · ASP.NET Core · Entity Framework Core · JWT · REST APIs · xUnit
 
 🔗 Repositorio: https://github.com/darwindiaz/ecommerce-net-angular-mvp
 
@@ -93,27 +103,27 @@ Proyecto Full Stack diseñado para demostrar integración entre frontend y backe
 
 ### 🎟️ Eventos Frontend
 
-Aplicación frontend desarrollada con Angular enfocada en la construcción de interfaces reutilizables, gestión de formularios y consumo eficiente de servicios. Refleja buenas prácticas aplicadas al desarrollo empresarial.
+Aplicación frontend desarrollada con Angular como parte de proyectos anteriores, enfocada en la construcción de interfaces reutilizables, gestión de formularios, consumo de servicios y organización modular de aplicaciones.
 
 **Tecnologías:** Angular · TypeScript · RxJS · Angular Material · HTML · CSS
 
-🔗 Repositorio: https://github.com/darwindiaz/eventos-frontend
+🔗 Repositorio: https://github.com/darwindiaz/eventos-front
 
 ---
 
 ### ⚙️ Eventos Backend
 
-API backend orientada a la gestión de eventos y reglas de negocio, implementando principios de separación de responsabilidades e integración mediante servicios REST.
+API REST desarrollada con Java y Spring Boot para la gestión de eventos y reglas de negocio. El proyecto representa experiencia práctica en desarrollo backend, diseño de servicios REST e integración con persistencia y servicios cloud.
 
-**Tecnologías:** Java · Spring Boot · REST APIs
+**Tecnologías:** Java · Spring Boot · REST APIs · MySQL · AWS
 
-🔗 Repositorio: https://github.com/darwindiaz/eventos-backend
+🔗 Repositorio: https://github.com/darwindiaz/eventos-back
 
 ---
 
 ### ☁️ Infrastructure as Code
 
-Repositorio orientado a la automatización y definición de infraestructura mediante código, fortaleciendo conocimientos en prácticas modernas de despliegue y entornos cloud.
+Repositorio orientado al aprendizaje y experimentación con infraestructura como código y servicios cloud. Forma parte de mi proceso de fortalecimiento en prácticas DevOps y arquitectura de infraestructura.
 
 **Tecnologías:** Terraform · AWS
 
