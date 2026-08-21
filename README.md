@@ -81,53 +81,41 @@ A lo largo de mi trayectoria he asumido responsabilidades propias de un liderazg
 
 ## ⭐ Proyectos Destacados
 
-### 🤖 Smart Workforce AI
+### 🐄 SIGAPP - Gestión Ganadera
 
-Plataforma Full Stack orientada a la gestión y automatización de procesos empresariales mediante inteligencia artificial. El proyecto funciona como laboratorio técnico para aplicar arquitectura de software, desarrollo backend y frontend, integración de IA generativa y buenas prácticas de ingeniería, evolucionando progresivamente hacia una solución empresarial mantenible y escalable.
+MVP multiplataforma creado para apoyar la gestión operativa de fincas ganaderas. Permite administrar fincas, inventario animal, potreros, movimientos, nacimientos y eventos sanitarios, con una experiencia responsive para web y Android. El proyecto incluye autenticación, aislamiento de datos por propietario, reglas de seguridad en Firestore, arquitectura por features y empaquetado móvil con Capacitor.
 
-**Tecnologías:** Angular · TypeScript · .NET · ASP.NET Core · REST APIs · Clean Architecture · DDD · Generative AI
+**Valor demostrado:** construcción de producto de principio a fin, modelado de dominio, arquitectura frontend, seguridad de datos, identidad visual y distribución Android.
 
-🔗 Repositorio: https://github.com/darwindiaz/smart-workforce-ai
+**Tecnologías:** Ionic 8 · Angular 18 · TypeScript · Firebase Authentication · Cloud Firestore · Capacitor 6 · PWA
+
+🔗 Repositorio: https://github.com/darwindiaz/sigapp
 
 ---
 
 ### 🛒 E-Commerce MVP
 
-Aplicación Full Stack desarrollada para demostrar la construcción de una solución empresarial completa, desde la arquitectura frontend hasta la integración con servicios backend. Incluye autenticación y autorización, consumo de APIs REST, gestión de estado, persistencia, pruebas y una estructura orientada a mantenibilidad y escalabilidad.
+Aplicación Full Stack que implementa un flujo completo de comercio electrónico: autenticación, catálogo, filtros, carrito persistido, checkout contra entrega y administración de productos y órdenes. El backend aplica Clean Architecture y el frontend organiza las capacidades por módulos funcionales.
 
-**Tecnologías:** Angular · TypeScript · RxJS · .NET · ASP.NET Core · Entity Framework Core · JWT · REST APIs · xUnit
+**Valor demostrado:** integración frontend-backend, diseño de APIs, autenticación por roles, persistencia, pruebas y decisiones arquitectónicas defendibles.
+
+**Tecnologías:** Angular 20 · TypeScript · RxJS · .NET 10 · ASP.NET Core · Entity Framework Core · JWT · SQLite · xUnit
 
 🔗 Repositorio: https://github.com/darwindiaz/ecommerce-net-angular-mvp
 
 ---
 
-### 🎟️ Eventos Frontend
+### 🤖 Smart Workforce AI
 
-Aplicación frontend desarrollada con Angular como parte de proyectos anteriores, enfocada en la construcción de interfaces reutilizables, gestión de formularios, consumo de servicios y organización modular de aplicaciones.
+Laboratorio de arquitectura para una plataforma de conciliaciones empresariales con un roadmap de asistencia mediante inteligencia artificial. Actualmente desarrolla el modelado del dominio y las bases del backend mediante documentación de discovery, reglas de negocio, decisiones arquitectónicas y casos de uso desacoplados.
 
-**Tecnologías:** Angular · TypeScript · RxJS · Angular Material · HTML · CSS
+**Valor demostrado:** diseño estratégico y táctico con DDD, documentación mediante ADR, separación por capas y evolución incremental de una solución empresarial.
 
-🔗 Repositorio: https://github.com/darwindiaz/eventos-front
+**Tecnologías:** .NET · ASP.NET Core · Entity Framework Core · Clean Architecture · DDD · REST APIs · ADR
 
----
-
-### ⚙️ Eventos Backend
-
-API REST desarrollada con Java y Spring Boot para la gestión de eventos y reglas de negocio. El proyecto representa experiencia práctica en desarrollo backend, diseño de servicios REST e integración con persistencia y servicios cloud.
-
-**Tecnologías:** Java · Spring Boot · REST APIs · MySQL · AWS
-
-🔗 Repositorio: https://github.com/darwindiaz/eventos-back
+🔗 Repositorio: https://github.com/darwindiaz/smart-workforce-ai
 
 ---
-
-### ☁️ Infrastructure as Code
-
-Repositorio orientado al aprendizaje y experimentación con infraestructura como código y servicios cloud. Forma parte de mi proceso de fortalecimiento en prácticas DevOps y arquitectura de infraestructura.
-
-**Tecnologías:** Terraform · AWS
-
-🔗 Repositorio: https://github.com/darwindiaz/terraform
 
 ## 🧪 Learning & Innovation Lab
 
